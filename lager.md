@@ -19,8 +19,8 @@ Fermentables
 
 Hops
 ---------
-[1 oz Perle](http://www.northernbrewer.com/shop/perle-pellets-1-oz.html)
-[3 oz Czech
+1. [1 oz Perle](http://www.northernbrewer.com/shop/perle-pellets-1-oz.html)
+2. [3 oz Czech
 Saaz](http://www.northernbrewer.com/shop/saaz-pellets-1-oz.html)
 
 
