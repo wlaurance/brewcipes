@@ -81,5 +81,6 @@ bring the total to 5 gallons.
 With a lager, the fermentation temp needs to be between 45F - 54F 
 **DO NOT ADD YEAST UNTIL WORT IS IN TEMP RANGE**
 
-Typically fermentation schedule 2 weeks => primary, 2 weeks =>
-secondary, 2 weeks => bottle conditioning.
+Lager fermentation schedule
+
+** Pending more research **
